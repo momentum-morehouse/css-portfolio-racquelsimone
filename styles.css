@@ -1,0 +1,95 @@
+img {
+border-radius: 8px;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+
+body {
+  background-color: blanchedalmond;
+}
+
+
+body {
+font-family: 'Abril Fatface', cursive;
+font-weight:normal;
+font-style: italic;
+font-style: bold;
+font-size: 40px
+}
+
+body {
+color: rosybrown
+}
+
+a:link {
+  color:white
+}
+
+.sidenav {
+  height: 100%;
+  width: 160px;
+  position: fixed; 
+  z-index: 1;
+  top: 150;
+  left: 0;
+  background-color: white
+  overflow-x: hidden; 
+  padding-top: 100px;  
+  margin-left: 2.5%;
+}
+
+.sidenav a {
+  color: rosybrown
+ 
+
+}
+
+.sidenav a:hover {
+color: white
+}
+
+p
+{
+  font-size: large
+}
+
+.sidenav  {
+font-size: 125%
+padding= 20%
+}
+
+.resbody {
+  font-size: medium
+}
+
+.namec {
+  border: 20px solid
+}
+
+h1 {
+  font-size: 145%
+}
+
+li {
+  font-size: large
+}
+
+h2 {
+  font-size: xx-large
+}
+
+h3 {
+  font-size: xx-large
+}
+
+h4 {
+  font-size: xx-large
+}
+
+h5 {
+  font-size: xx-large
+}
