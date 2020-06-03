@@ -93,3 +93,9 @@ h4 {
 h5 {
   font-size: xx-large
 }
+
+.sidenav {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start
+}
